@@ -17,7 +17,7 @@ class Car {
 
     void display(){
         System.out.println("___________________");
-        System.out.println("\nCar Model: " + model);
+        System.out.println("Car Model: " + model);
         System.out.println("Car Engine Type: " + engine_type);
         System.out.println("Color of the Car: " + color);
         System.out.println("Year of the Car: " + year);
