@@ -16,17 +16,15 @@ class Car {
     }
 
     void display(){
-        System.out.println("___________________");
         System.out.println("Car Model: " + model);
         System.out.println("Car Engine Type: " + engine_type);
         System.out.println("Color of the Car: " + color);
         System.out.println("Year of the Car: " + year);
         System.out.printf("Price of the Car ($) %.2f\n", price);
-        System.out.println("-----------------------------------");
     }
 }
 
-class Employee {
+class Employee { 
     String name;
     String id;
     int age;
@@ -41,13 +39,11 @@ class Employee {
     }
 
     void display(){
-        System.out.println("___________________");
         System.out.println("Employee ID: " + id);
         System.out.println("Employee Name: " + name);
         System.out.println("Employee Age: " + age);
         System.out.println("Employee Gender: " + gender);
         System.out.printf("Employee Salary is (USD) %.2f\n", salary);
-        System.out.println("-----------------------------------");
     }
 }
 
@@ -80,13 +76,11 @@ class BankAccount {
     }
 
     void display(){
-        System.out.println("___________________");
         System.out.println("User Password: " + getPassword());
         System.out.println("Username: " + username);
         System.out.println("User ID: " + id);
         System.out.println("User Email: " + email);
         System.out.printf("User Balance is (USD) %.2f\n", getBalance());
-        System.out.println("-----------------------------------");
     }
 }
 
@@ -105,13 +99,11 @@ class Video {
     }
 
     void display(){
-        System.out.println("___________________");
         System.out.println("Title: " + title);
         System.out.printf("File Size: %.2f MB\n", fileSize);
         System.out.println("Resolution: " + resolution + "p");
         System.out.println("Views: " + numberOfView);
         System.out.println("Likes: " + numberOfLike);
-        System.out.println("-----------------------------------");
     }
 }
 
