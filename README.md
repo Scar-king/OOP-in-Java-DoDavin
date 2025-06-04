@@ -45,18 +45,42 @@ Each lab is self-contained with its own objective and implementation, designed t
 ## 📁 Project Structure
 
 ```plaintext
-Java-OOP-Labs/
-│
-├── Lab01/
-│   └── (Object-Oriented Programming in JAVA)
-├── Lab02/
-│   └── (Control Statements)
-├── Lab03/
-│   └── (Interfaces and polymorphism)
-├── Lab04/
-│   └── (Class and Object)
-├── Lab05/
-│   └── (Constructor, File Processing)
-├── Lab06/
-│   └── (Encapsulation, Interface)
-└── README.md
+├───OOP in Java DoDavin
+│   ├───Banking
+│   ├───CircleCalculation
+│   ├───Company
+│   ├───DateTest
+│   ├───Files
+│   ├───Football
+│   ├───Image
+│   ├───Lab01
+│   ├───Lab04
+│   │   ├───Ex1
+│   │   ├───Ex2
+│   │   ├───Ex3
+│   │   ├───Ex4
+│   │   ├───Ex5
+│   │   ├───Ex6
+│   │   ├───Ex7
+│   │   └───Ex8
+│   ├───Lab05
+│   │   ├───Ex1
+│   │   ├───Ex2
+│   │   ├───Ex3
+│   │   ├───Ex4
+│   │   ├───Ex5
+│   │   └───Ex6
+│   ├───Lab06
+│   │   ├───Ex1
+│   │   ├───Ex2
+│   │   ├───Ex3
+│   │   ├───Ex4
+│   │   └───Ex5
+│   ├───Markdown
+│   ├───mathCalculation
+│   ├───Point
+│   ├───Position
+│   ├───Practice
+│   ├───Receipt
+│   └───Test
+```
